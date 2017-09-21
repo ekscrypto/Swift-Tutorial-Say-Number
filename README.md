@@ -6,4 +6,6 @@ Written as a sample for https://stackoverflow.com/questions/46330708/swift-multi
 Xcode 9 GM
 Swift 4
 
+Audio recorded using Audacity, awesome (free) tool to manipulate audio files!
+
 Unlicensed. Enjoy!
